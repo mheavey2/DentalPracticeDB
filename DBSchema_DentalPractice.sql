@@ -1,5 +1,5 @@
 CREATE DATABASE dentalPractice; --create database
-USE dentalPractice; --ensures any following commands are carried out on teh correct database (i.e. dentalPractice)
+USE dentalPractice; --ensures any following commands are carried out on the correct database (i.e. dentalPractice)
 
 -- create 7 tables within the db
 
